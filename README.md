@@ -173,11 +173,11 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
 * ## Installation
 
-  First, make sure you have installed git and Python version between 3.7.x to 3.9.x
+  First, make sure you have installed git and Python version between 3.7.x to 3.10.x
   
   Open command prompt and type
   ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/vrdevelopersco/YouTube-Viewer.git --depth 10
   ```
   ```
   cd YouTube-Viewer
@@ -212,11 +212,11 @@ Simple program to increase YouTube views written in Python. Works with live stre
 # Linux / Mac
 * ## Installation
 
-  First, make sure you have installed git and Python version between 3.7.x to 3.9.x
+  First, make sure you have installed git and Python version between 3.7.x to 3.10.x
   
   Open your favourite terminal and run
    ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/vrdevelopersco/YouTube-Viewer.git --depth 10
   ```
   ```
   cd YouTube-Viewer
@@ -257,6 +257,8 @@ Simple program to increase YouTube views written in Python. Works with live stre
   * Use both [urls.txt](https://github.com/MShawon/YouTube-Viewer#urls) and [search.txt](https://github.com/MShawon/YouTube-Viewer#search)
   * And use as many [urls](https://github.com/MShawon/YouTube-Viewer#urls) and [keyword::::title](https://github.com/MShawon/YouTube-Viewer#search) as you can. Don't use just one video.
 
+# Known Issues
+EXE version is not corrected with 3.10.x Python support. I'll do that in a while
 
 # Credits
- I want to thank all of you who have opened an issue or shared your code snippets or ideas with me! 
+MShawon, of course!
