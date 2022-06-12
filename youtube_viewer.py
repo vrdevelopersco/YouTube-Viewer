@@ -145,10 +145,10 @@ def clean_exe_temp(folder):
     if hasattr(sys, '_MEIPASS'):
         temp_name = sys._MEIPASS.split('\\')[-1]
     else:
-        if sys.version_info.minor < 7 or sys.version_info.minor > 9:
+        if sys.version_info.minor < 7 or sys.version_info.minor > 10:
             print(
                 f'Your current python version is not compatible : {sys.version}')
-            print(f'Install Python version between 3.7.x to 3.9.x to run this script')
+            print(f'Install Python version between 3.7.x to 3.10.x to run this script')
             input("")
             sys.exit()
 
