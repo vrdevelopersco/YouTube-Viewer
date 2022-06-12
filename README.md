@@ -63,7 +63,8 @@ Simple program to increase YouTube views written in Python. Works with live stre
 
 
 # Requirements
- * **Python 3.7.x-3.9.x**
+ * Originally **Python 3.7.x-3.9.x** was supported, but I did a small change so no worries with Python 3.10.x. Tested personally with no issues!
+ 
  * High speed Internet Connection
  * Good proxy list (http, https, socks4, socks5)
  * Google Chrome installed on your OS (not Chromium)
